@@ -1,0 +1,14 @@
+{
+  "name": "Wetter & Regenradar",
+  "short_name": "Wetter",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#0f1b2d",
+  "background_color": "#0f1b2d",
+  "description": "Wetter-App mit Ortssuche, Regenradar und Favoriten. Wetterdaten: Open-Meteo, Radar: RainViewer.",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
